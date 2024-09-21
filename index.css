@@ -1,0 +1,140 @@
+nav {
+    height: 200px;
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url(https://ayanalage.com/wp-content/uploads/2020/10/about-me-e1602187121980.png)
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    margin: 1rem;
+    list-style: none;
+    color: rgb(9, 29, 17);
+}
+
+.logo {
+    padding: 1rem;
+    font-family: "Mr De Haviland", cursive;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(36, 176, 78);
+    font-size: 40px;
+}
+
+.about-container {
+    display: flex;
+    align-items: center;
+    background-color: rgb(250, 245, 199);
+    padding: 1rem;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 250;
+    font-style: normal;
+    text-align: center;
+}
+
+.title {
+  font-family: "Mr De Haviland", cursive;
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(199, 15, 5);
+  font-size: 40px;
+    
+}
+
+.about {
+    display: flex;
+}
+
+.exp {
+    font-family: "Mr De Haviland", cursive;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(199, 15, 5);
+    font-size: 40px;
+
+}
+
+
+.work {
+    font-family: "Mr De Haviland", cursive;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(199, 15, 5);
+    font-size: 40px;
+}
+
+.bs {
+    font-family: "Mr De Haviland", cursive;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(199, 15, 5);
+    font-size: 40px;
+}
+
+.block2 {
+    display: flex;
+    align-items: center;
+    background-color: rgb(250, 245, 199);
+    padding: 1rem;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 250;
+    font-style: normal;
+    text-align: center;
+}
+
+.block1 {
+    display: inline-flex;
+}
+#mer {
+    display: flex;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+ th,td {
+    border:  solid rgb(247, 145, 133);
+    padding: 8px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 250;
+    font-style: normal;
+    text-align: center;
+    
+ }
+
+.titre {
+    font-family: "Mr De Haviland", cursive;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(199, 15, 5);
+    font-size: 40px;
+}
+
+.cont {
+    font-family: "Mr De Haviland", cursive;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(199, 15, 5);
+    font-size: 40px;
+}
+
+#info {
+    display: inline;
+    
+}
+
+
